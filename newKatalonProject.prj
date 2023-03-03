@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>FirstBlankProject</name>
+   <name>newKatalonProject</name>
    <tag></tag>
-   <UUID>9d2ac582-3b30-438b-b234-e753010c5211</UUID>
+   <UUID>01c36b95-50f5-4097-b19f-38b0437a829f</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/mds/Katalon Studio/FirstBlankProject/FirstBlankProject.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -26,5 +25,5 @@
       </systemFolderList>
    </sourceContent>
    <timeStampInProperties>false</timeStampInProperties>
-   <type>WEBUI</type>
+   <type>GENERIC</type>
 </Project>
