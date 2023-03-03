@@ -64,4 +64,10 @@ WebUI.setText(findTestObject('Object Repository/MakeAppointment/VisitDate'), for
 WebUI.setText(findTestObject('Object Repository/MakeAppointment/Comment'), 'This is a test comment')
 WebUI.click(findTestObject('Object Repository/MakeAppointment/Btn_bookApptSubm'))
 
+
+// Verify appt success
+WebUI.verifyElementVisible(findTestObject('Object Repository/MakeAppointment/ApptVerifyConfirmMsg'))
+
+WebUI.click(findTestObject('Object Repository/MakeAppointment/Btn_GotoHome'))
+
 WebUI.closeBrowser()
