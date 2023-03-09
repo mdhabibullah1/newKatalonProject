@@ -6,6 +6,7 @@
    <UUID>01c36b95-50f5-4097-b19f-38b0437a829f</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/mds/git/newKatalonProject/newKatalonProject.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
